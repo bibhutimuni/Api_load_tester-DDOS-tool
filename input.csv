@@ -1,0 +1,2 @@
+endpoint,method,body,repetition
+https://example.com/,GET,,999999
